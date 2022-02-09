@@ -1,1 +1,4 @@
-
+- https://github.com/learning-zone/css-interview-questions/blob/master/css-practice.md
+- https://github.com/learning-zone/css-interview-questions
+- https://github.com/Devinterview-io/css-interview-questions
+- https://gist.github.com/marko-jankovic/22ad55fae467e72d0312
