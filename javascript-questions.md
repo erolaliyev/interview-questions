@@ -1,1 +1,2 @@
-
+- https://github.com/sudheerj/javascript-interview-questions#what-is-the-difference-between-isnan-and-number.isnan
+- https://github.com/learning-zone/javascript-interview-questions
